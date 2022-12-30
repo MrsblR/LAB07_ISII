@@ -11,7 +11,7 @@ Los errores indican que:
 - Define una constante en lugar de duplicar esta literal.
 - Importa sólo los nombres necesarios o importa el módulo y luego utiliza sus miembros
 
-![](Evidences/Problems.png)
+![](final/Problems.png)
 
 ## 2. Adicionar casos de prueba faltantes (TDD para la nueva funcionalidad)
 
@@ -273,4 +273,4 @@ Por otro lado, también se re-ejecutarón las Pruebas para verificar que el cód
 
 Los resultados son los siguientes:
 
-![](Evidences/Issues.png)
+![](final/Issues.png)
