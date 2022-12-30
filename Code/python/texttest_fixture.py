@@ -4,9 +4,10 @@ from __future__ import print_function
 from gilded_rose import *
 
 if __name__ == "__main__":
+    bs_TAFKAL80ETC= "Backstage passes to a TAFKAL80ETC concert"
     print ("OMGHAI!")
     items = [
-             Item(name="+5 Dexterity Vest", sell_in=10, quality=20),
+             Item(name="+5 Dexterity Vest", sell_in=20, quality=40),
              Item(name="Aged Brie", sell_in=2, quality=0),
              Item(name="Elixir of the Mongoose", sell_in=5, quality=7),
              Item(name="Sulfuras, Hand of Ragnaros", sell_in=0, quality=80),
