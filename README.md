@@ -11,7 +11,7 @@ Los errores indican que:
 - Define una constante en lugar de duplicar esta literal.
 - Importa sólo los nombres necesarios o importa el módulo y luego utiliza sus miembros
 
-![](final/Problems.png)
+![](https://github.com/MrsblR/LAB07_ISII/blob/final/Evidences/Problems.PNG)
 
 ## 2. Adicionar casos de prueba faltantes (TDD para la nueva funcionalidad)
 
@@ -146,7 +146,7 @@ if __name__ == '__main__':
     unittest.main()
 ```
 
-## 3. Refactorizar el código (2 ó 3) [con ayuda de SonarLint]: Extract Method, Inline Method, Extract Variable, Inline Temp, Replace Temp with Query, Split Temporary Variable, Remove Assignments to Parameters, Replace Method with Method Object, Substitute Algorithm, ... [Aplicar recomendaciones de SonarLint - Sonarqube]
+## 3. Refactorizar el código (2 ó 3) [con ayuda de SonarLint]
 
 
 La clase GildedRose tiene varios problemas de estructura y legibilidad:
@@ -273,4 +273,4 @@ Por otro lado, también se re-ejecutarón las Pruebas para verificar que el cód
 
 Los resultados son los siguientes:
 
-![](final/Issues.png)
+![](https://github.com/MrsblR/LAB07_ISII/blob/final/Evidences/Issues.PNG)
